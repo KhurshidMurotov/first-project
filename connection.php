@@ -11,3 +11,4 @@ $con=mysqli_connect($servername,$username,$password,$dbname);
 //     die("connection failed".$conn->connect_error);
 // }
 // echo"connection successfull";
+>?
